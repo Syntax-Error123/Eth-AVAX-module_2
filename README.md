@@ -17,5 +17,5 @@ network. Finally we extract the contract adress and the abi from the deployed co
 then displaying in on the webpage.
 # Screenshot of the Webpage
 
-![alt text](image_url)
+![alt text](https://github.com/Syntax-Error123/Eth-AVAX-module_2/blob/92581be9cf836dc7e65888057cd55a809d7089e1/Screenshot%202023-08-05%20181924.png)
 
